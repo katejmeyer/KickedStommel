@@ -1,1 +1,16 @@
+You can download MatContM as the contents of matcontm5p4 from <https://sourceforge.net/projects/matcont/files/MatContM/>.
+
+Add the following files in the matcontm5p4 folder:
+Stommel.m
+Stommel_continuation.m
+
+Add the following files in the Systems folder within matcontm5p4:
+FKDer3_oneparam.m
+FKHessianP_oneparam.m
+FKHessian_oneparam.m
+FKJacobianP_oneparam.m
+FKJacobian_oneparam.m
+flowkick.m
+flowkick_Stommel.m
+
 
